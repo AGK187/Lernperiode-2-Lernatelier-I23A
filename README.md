@@ -12,3 +12,10 @@ Antoni Gerej 20.10
    1. 319 E-Portfolio weiterarbeiten. Falls ich nicht fertig werde
    2. Informatikprojekt weitermachen.
    3. Aufträge vom neuem Modul nacharbeiten falls es nötig wäre
+  
+   4. ##Zusammenfassung 27.10:
+      Ich habe heute ausschlieslich an meinem E-Portfolio für das Modul 319 gearbeitet. Ich konnte mein E-Portfolio heute abschliessen, doch ich bin nicht ganz fertig damit es auf Fehler und Lücken zu überprüfen. Ich war          heute sehr konzentriert und konnte viel abschliessen.
+      Arbeitspakete für nächste Woche:
+      1. An meinem Programmierprojekt arbeiten
+      2. Vielleicht am Programmierprojekt ( in gruppen) arbeiten
+      3. Nachstände in Modulen beseitigen
