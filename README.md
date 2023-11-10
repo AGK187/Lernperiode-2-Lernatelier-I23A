@@ -13,18 +13,24 @@ Antoni Gerej 20.10
    2. Informatikprojekt weitermachen.
    3. Aufträge vom neuem Modul nacharbeiten falls es nötig wäre
   
-   4. ##Zusammenfassung 27.10:
+   4. ## Zusammenfassung 27.10:
       Ich habe heute ausschlieslich an meinem E-Portfolio für das Modul 319 gearbeitet. Ich konnte mein E-Portfolio heute abschliessen, doch ich bin nicht ganz fertig damit es auf Fehler und Lücken zu überprüfen. Ich war          heute sehr konzentriert und konnte viel abschliessen.
       Arbeitspakete für nächste Woche:
       1. An meinem Programmierprojekt arbeiten
       2. Vielleicht am Programmierprojekt ( in gruppen) arbeiten
       3. Nachstände in Modulen beseitigen
-###Zusammenfassung 3.11:
+### Zusammenfassung 3.11:
       Heute war zum ersten mal Distanzunterricht. Meine Produktivität war vergleichbar mit der vom normalen Onlineunterricht, jedoch war mein Fokus anders. heute habe ich 3 Dinge gemacht. Als erstes habe ich meine Hausaufgaben zum Modul 162 gemacht und den Stoff nochmals repetiert da uns bald eine Prüfung bevorsteht. Als zweites habe ich für Tests aus der Kanti gelernt da wir sehr viele Tests vor uns haben. Als letztes kam ich zu meinem Programmierprojekt. Ich wollte ein Programm schreiben, welches Primzahlen ausgibt. Ich habe 1 Stunde daran gessessen und habe zwar Erfahrungen gesammelt, habe aber immer noc wenig Ahnung was schlussendlich die Lösung sein wird.
 Arbeistpakete für nächste Woche:
 1. Programmierprojekt in Gruppen
 2. Module erledigen
 3. Eigenes Projekt.
-4. Nachweis zur Arbeit von Heute
-5. ![image](https://github.com/AGK187/Lernperiode-2-Lernatelier-I23A/assets/143183868/0d47b307-bb60-42a5-810e-8acec07a7841)
+ Nachweis zur Arbeit von Heute:
+ ![image](https://github.com/AGK187/Lernperiode-2-Lernatelier-I23A/assets/143183868/0d47b307-bb60-42a5-810e-8acec07a7841)
+
+### Zusammenfassung 10.11:
+heute habe ich ausschlieslich an dem Programmierprojekt in Gruppen gearbeitet. Da David nicht da war, waren ich und Sebastian auf uns alleine gestellt. Heute haben wir uns damit beschäftigt, Informationen zu sammeln und uns auf den Start des Programmierens vorzubereiten. Wir haben mit Winforms eine visuelle Vorlage erstellt und uns mit Wissen über unseren Weg zum Erflog gesammelt. Trotzdem stehen wir vor einer grossen Herausforderung, da wir noch wenig Ahnung von dem code haben, den wir schreiben müssen.
+Arbeitspakete für nächste Woche:
+1. Programmierprojekt in Gruppen
+2. Evtl. Primzahlen
 
