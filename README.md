@@ -34,3 +34,12 @@ Arbeitspakete für nächste Woche:
 1. Programmierprojekt in Gruppen
 2. Evtl. Primzahlen
 
+
+   #### Zusammenfassung 17.11
+   Heute hatten wir weinger Zeit da wir eine Deutschprüfung absolvieren mussten. Heute hatte ich also nur ungefähr 2 Stunden zum Arbeiten. Heute habe ich zuerst 15 min mein OBA zum Modul 162 gemacht. Dort geht es um Daten. Ich habe einen kleinen Text geschrieben, welcher meine ausgewählten Daten beschreibt. Die restliche Zeit habe ich mit David und Sebastian am Programmierprojekt verbracht. Heute haben wir es geschafft, das im unserem Quiz zu den Synonymen ein zufälliges Wort erscheint. Ausserdem haben wir mit den Links rumgeknobelt, welche nötig sind um multiple choice Fragen zu erstellen. Damit haben wir aber relativ Probleme.
+![MicrosoftTeams-image (1)](https://github.com/AGK187/Lernperiode-2-Lernatelier-I23A/assets/143183868/fab51e6b-2d6f-4912-8ca5-68fca488d45f)
+
+   Arbeitspakete für 24.11
+   1. Programmierprojekt in Gruppen
+   2. OBA Modul 162
+
