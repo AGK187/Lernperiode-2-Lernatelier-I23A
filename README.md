@@ -49,9 +49,9 @@ Arbeitspakete für nächste Woche:
    Arbeitspakete für 1.12
 
    
-   1.Informatikprojekt falls möglich. Allgemeines Vorankommen im Projekt, vielleicht Abschluss der Schwierigkeitsstufe "Einfach".
+   1.   Informatikprojekt falls möglich. Allgemeines Vorankommen im Projekt, vielleicht Abschluss der Schwierigkeitsstufe "Einfach".
    
-   2. OBA Modul 162. Ich habe bereits angefangen und ich möchte evtl. weiterkommen, um nachher weniger zu machen.
+   2.   OBA Modul 162. Ich habe bereits angefangen und ich möchte evtl. weiterkommen, um nachher weniger zu machen.
       
-   3. Neues Forms Projekt (solo). Ich habe in letzter Zeit mehr Interesse an Wondows Forms bekommen und könnte evtl. mal versuchen, irgend eine Applikation zu erstellen. Dabei möchte ich auf Jedem Fall die Eigenschaften von    Windows Forms nutzen
+   3.   Neues Forms Projekt (solo). Ich habe in letzter Zeit mehr Interesse an Wondows Forms bekommen und könnte evtl. mal versuchen, irgend eine Applikation zu erstellen. Dabei möchte ich auf Jedem Fall die Eigenschaften           von Windows Forms nutzen
 
