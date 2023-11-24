@@ -43,3 +43,11 @@ Arbeitspakete für nächste Woche:
    1. Programmierprojekt in Gruppen
    2. OBA Modul 162
 
+
+   ### Zusammenfassung 24.11
+   Heute habe ich mit David und Sebastian an unserem Programmierprojekt am Arbeiten. Heute haben wir an der einfachen Schwierigkeitstufe gearbeitet. Wir hängen immer noch dran, da es für sehr schwierig ist, die richtigen       Wörter in den Checkboxen anzuzeigen. Wir haben etwas Code hinzugefügt und sind gerade daran,  dir Regeln für die Checkboxen zu ertsellen, was der letzte Schritt zum Erflog sein sollte. Es braucht aber wirklich noch          Arbeit und zwar viel Arbeit.
+   Arbeitspakete für 1.12
+   1.Informatikprojekt falls möglich. Allgemeines Vorankommen im Projekt, vielleicht Abschluss der Schwierigkeitsstufe "Einfach".
+   2. OBA Modul 162. Ich habe bereits angefangen und ich möchte evtl. weiterkommen, um nachher weniger zu machen.
+   3. Neues Forms Projekt (solo). Ich habe in letzter Zeit mehr Interesse an Wondows Forms bekommen und könnte evtl. mal versuchen, irgend eine Applikation zu erstellen. Dabei möchte ich auf Jedem Fall die Eigenschaften von Windos Forms nutzen
+
