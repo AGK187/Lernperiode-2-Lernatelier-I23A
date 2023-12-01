@@ -54,4 +54,13 @@ Arbeitspakete für nächste Woche:
    2.   OBA Modul 162. Ich habe bereits angefangen und ich möchte evtl. weiterkommen, um nachher weniger zu machen.
       
    3.   Neues Forms Projekt (solo). Ich habe in letzter Zeit mehr Interesse an Wondows Forms bekommen und könnte evtl. mal versuchen, irgend eine Applikation zu erstellen. Dabei möchte ich auf Jedem Fall die Eigenschaften           von Windows Forms nutzen
+  
+
+
+   ### Zusammenfassung 1.12
+   Heute habe ich  wieder mit David und Sebastian am Programmierprojekt gearbeitet. Heute haben wir die ganze Zeit daran gearbeitet, sind aber nicht weit gekommen, da Bugs aufgetaucht sind und wir ein Problem immer noch        nicht beheben konnten. Wir haben einmal einen Bug gefixt, nachher haben wir aber ausversehen was gelöscht und es nicht wiederhergestellt und es gab wieder einen Bug. Ich habe trotzdem heute konzentriert gearbeitet.
+
+   Arbeitspakete für 7.12
+   1. Neues forms Projekt
+   2. Neues Modul nachholen falls Bedarf
 
