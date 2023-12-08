@@ -60,7 +60,14 @@ Arbeitspakete für nächste Woche:
    ### Zusammenfassung 1.12
    Heute habe ich  wieder mit David und Sebastian am Programmierprojekt gearbeitet. Heute haben wir die ganze Zeit daran gearbeitet, sind aber nicht weit gekommen, da Bugs aufgetaucht sind und wir ein Problem immer noch        nicht beheben konnten. Wir haben einmal einen Bug gefixt, nachher haben wir aber ausversehen was gelöscht und es nicht wiederhergestellt und es gab wieder einen Bug. Ich habe trotzdem heute konzentriert gearbeitet.
 
-   Arbeitspakete für 7.12
+   Arbeitspakete für 8.12
    1. Neues forms Projekt
    2. Neues Modul nachholen falls Bedarf
+  
+
+   ### Zusammenfassung 8.12
+
+   Heute war Distanzunterricht, also habe ich zuhause gearbeitet. Heute habe ich zum Grossteil an Modul 117 gearbeitet. Da es ein Selbstlernmodul ist und die Bewertung aus Moodle Tests und Abgaben besteht, empfand ich es       als sinnvoll, dort ein Paar Aufgaben zu erledigen. 1/4 der Zeit habe ich ausserdem mit David an unserem Programmierprojekt gearbeitet. Die Projektphase ist ja abgeschlossen, aber da wir nicht fertig geworden sind,           wollten wir noch es zumindest noch ein bisschen verbessern.
+   ![Screenshot 2023-12-08 151544](https://github.com/AGK187/Lernperiode-2-Lernatelier-I23A/assets/143183868/b984ab2d-06bf-4067-a6dc-27de9bdb1991)
+ 
 
