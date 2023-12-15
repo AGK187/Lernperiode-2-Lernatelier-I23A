@@ -73,3 +73,15 @@ Arbeitspakete für nächste Woche:
    Arbeitspakete für 15.12
    1. Modularbeit
    2. Programmierprojekt
+
+
+   ### Zusammenfassung 15.12
+
+
+   heute war Präsenzunterricht und heute habe ich an drei Dingen gearbeitet. Zuerst habe ich zusammen mit David und Sebastian mich am Advent of Code versucht. Da haben wir den ersten Auftrag mit 2 goldenen Sternen              abgeschlossen. Doch die anderen Aufgaben wurden mir sehr kompliziert, also habe ich nach einer Stunde aufgehört. Nachher habe ich eine neue Windows Forms Datei angefangen, an welcher ich ein bisschen mit verschiedenen       Funktionen rumexperimentiert habe. Ich habe vor allem mit den erscheinen und verschwinden von Forms gearbeitet. Als letztes habe ich ain paar moodle Abgaben erledigt, das habe ich aber nur für 45 Minuten gemacht.
+
+
+    Arbeitspakete für 22.12
+
+   1. Advent of code: Ich habe vor mehr daran zu arbeiten und vor allem mehr Erfolg zu haben
+   2. Modularbeit: An Modulen arbeiten geht immer klar 
