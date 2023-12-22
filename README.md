@@ -97,6 +97,10 @@ In dieser Lernperiode habe ich mich mit im groben mit einem Projekt und ein paar
 
 
 Ich nehme mir vor, viel mehr Programmierprojekte zu starten, da ich umbedingt meine Programmierskills üben sollte. Ich habe die grundsätzliche Idee im Kopf, aber es fällt mir oftmals schwer sie zu verwirklichen.
+
+
+
+
 [Uploading Program.cs…]()using System;
 using System.Collections.Generic;
 using System.Linq;
