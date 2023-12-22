@@ -85,3 +85,7 @@ Arbeitspakete für nächste Woche:
 
    1. Advent of code: Ich habe vor mehr daran zu arbeiten und vor allem mehr Erfolg zu haben
    2. Modularbeit: An Modulen arbeiten geht immer klar und dann muss ich vielleicht weniger in den Ferien machen.
+
+
+
+###Gesamtrepetition
