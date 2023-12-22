@@ -97,3 +97,47 @@ In dieser Lernperiode habe ich mich mit im groben mit einem Projekt und ein paar
 
 
 Ich nehme mir vor, viel mehr Programmierprojekte zu starten, da ich umbedingt meine Programmierskills üben sollte. Ich habe die grundsätzliche Idee im Kopf, aber es fällt mir oftmals schwer sie zu verwirklichen.
+[Uploading Program.cs…]()using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Visualiesierungsversuch
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Möchtest du Primzahlen erhalten? Drücke space zum starten");
+            int Primzahl = 1;
+            bool Promzahl;
+            Console.Write(5);
+            Console.WriteLine(7);
+            Console.WriteLine(8);
+            do
+            {
+                Primzahl++;
+            } while (Primzahl % 2 == 0 || Primzahl % 3 == 0 || Primzahl % 4 == 0 || Primzahl % 5 == 0 || Primzahl % 6 == 0);
+
+
+
+            
+            if (Primzahl % 2 == 0 || Primzahl % 3 == 0 || Primzahl % 4 == 0 || Primzahl % 5 == 0 || Primzahl % 6 == 0) ;
+            {
+                Promzahl = true;
+            }
+            if (Promzahl = true)
+            {
+
+                Console.Write(Primzahl);
+            }
+
+            Console.ReadLine();
+
+
+
+        }
+    }
+}
+
